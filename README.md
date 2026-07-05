@@ -1,81 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
-<h3 align="center">Fullstack Developer | .NET & React Enthusiast | Building for MENA & Gulf Markets</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;C%23+%2F+.NET+%7C+React+%2F+Node.js;Software+Engineering+Graduate;Open+to+opportunities+in+KSA+%2F+UAE+%2F+Qatar+%2F+Egypt" alt="Typing SVG" />
-</p>
+# Hi, I'm Ahmed Osama 👋
 
----
+### Fullstack Developer in the making — C# / .NET · React · Node.js
 
-### 🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Graduate;C%2B%2B+%E2%86%92+C%23+%2F+.NET+%E2%86%92+REST+APIs+%E2%86%92+React;Building+skills+for+the+Gulf+%26+Egypt+tech+market;Open+to+Junior+%2F+Fullstack+opportunities" alt="Typing SVG" />
 
-- 🎓 Software Engineering graduate (09.03.04) — Samara State Technical University (СамГТУ), Russia  
-- 💼 Currently building fullstack skills, working toward a career as a **Fullstack Developer**  
-- 🌍 Targeting opportunities in **Saudi Arabia, UAE, Qatar, Egypt, and Russia**  
-- 🛠️ Hands-on experience building a real-world **Agricultural Automation System** (React, TypeScript, Node.js, PostgreSQL)  
-- 📚 Following a structured backend roadmap: **C++ → C# / .NET → REST APIs → React / Node.js**  
-- 🗣️ Languages: Arabic (native), Russian (fluent reading/writing), English  
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 
----
+</div>
 
-### 🧰 Tech Stack
+<br>
 
-**Languages & Core**
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## 🧑‍💻 About Me
 
-**Backend**
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/-ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+- 🎓 Software Engineering graduate (09.03.04) — Samara State Technical University, Russia
+- 🌍 Building a career toward **Saudi Arabia, UAE, Qatar, Egypt & Russia**
+- 📖 Following a structured, roadmap-driven path from **C++ → C# / .NET → REST APIs → React / Node.js**
+- 🔭 Currently deep in the **.NET / C# backend track**, with modern frontend (React + TypeScript) up next
+- 🗣️ Arabic (native) · Russian (fluent) · English
 
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![WinForms](https://img.shields.io/badge/-WinForms-512BD4?style=flat-square&logo=windows&logoColor=white)
+<br>
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+## 🛣️ My Learning Roadmap
 
-**Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+```
+✅ C++ Fundamentals & OOP
+🔄 C# — Level 2 (in progress)
+⬜ .NET Core & Backend Development
+⬜ REST API Design & Implementation
+⬜ React & Modern Frontend
+⬜ Fullstack Integration Projects
+```
 
----
+<br>
 
-### 🚀 Featured Project
+## 🚀 Projects
 
-**🌾 Farm Automation System (Automated Information System for a Farm)**  
-A fullstack information system for managing livestock, crop farming, sales, and personnel operations.
-- **Frontend:** React 18, TypeScript  
-- **Backend:** Node.js 18, Express 4  
-- **Database:** PostgreSQL 15 (13–14 entities across multiple domains)  
-- Built as a real, deployable graduation project with a colleague, covering the full data model from farm operations to sales tracking.
+<div align="center">
 
-> 🔗 *Add the repo link here once uploaded*
+<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" />
+</a>
 
----
+</div>
 
-### 📈 GitHub Stats
+**🎮 Rock-Paper-Scissors (C++)**
+A console-based Rock-Paper-Scissors game built in C++ — player vs. computer, with input handling and game logic implemented from scratch as part of my C++ practice.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
+<br>
 
----
+## 🧰 Tech Stack
 
-### 📫 Let's Connect
+<div align="center">
 
-<p align="left">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,ts,js,react,nodejs,express,postgres,mssql,git,github,vscode&theme=dark" />
 
----
+</div>
 
-<p align="center"><i>⭐ Open to fullstack opportunities — always learning, always building.</i></p>
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<i>⭐ Always learning, always building — one step closer every day.</i>
+</div>
